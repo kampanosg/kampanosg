@@ -5,6 +5,6 @@
 
 - 👋 Hi, I’m @kampanosg
 - 👀 I’m interested in Go, Erlang and Rust
-- 🌱 I’m currently trying to get better at Rust
-- 🏎️ I’m GoKarting in the weekends ([YouTube]())
+- 📚 I’m currently reading the [Dune](https://en.wikipedia.org/wiki/Dune_(franchise)) series (I am at Book 3: [The Children of Dune](https://www.amazon.co.uk/Children-Dune-Third-Novel/dp/0575074906))
+- 🏎️ I’m GoKarting on the weekends ([YouTube](https://youtu.be/SMDz30XbHNY))
 - 📫 Reach me at [LinkedIn](https://uk.linkedin.com/in/kampanosg) or via email at kampanosg[at]outlook[dot]com
