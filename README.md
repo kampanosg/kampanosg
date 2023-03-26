@@ -5,6 +5,6 @@
 
 - 👋 Hi, I’m @kampanosg
 - 👀 I’m interested in Go, Erlang and Rust
-- 📚 I’m currently reading the [Dune](https://en.wikipedia.org/wiki/Dune_(franchise)) series (I am at Book 6: [Chapter House Dune](https://duckduckgo.com/?q=buy+chapter+house+dune))
+- 📚 I’m currently reading [The Sprawl Trilogy](https://en.wikipedia.org/wiki/Sprawl_trilogy) series (I am at Book 1: [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer))
 - 🏎️ I’m GoKarting on the weekends ([YouTube](https://youtu.be/SMDz30XbHNY))
 - 📫 Reach me at [LinkedIn](https://uk.linkedin.com/in/kampanosg)
