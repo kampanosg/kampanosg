@@ -1,11 +1,11 @@
-
+e
 <p align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="animated" />
 </p>
 
 - 👋 Hi, I’m @kampanosg
 - 👀 I’m interested in Go, Erlang and Rust
-- 📚 I’m reading the [Einstein: His Life and Universe](https://search.brave.com/search?q=einstein+walter+isaacson&source=web) by Walter Isaacson
+- 📚 I’m reading the [The Moon Is a Harsh Mistress](https://search.brave.com/search?q=the+moon+is+a+harsh+mistress&source=web) by Robert A. Heinlein
 - 🏎️ I’m GoKarting on the weekends ([YouTube](https://youtu.be/SMDz30XbHNY))
 - 📫 Reach me at [LinkedIn](https://uk.linkedin.com/in/kampanosg)
 
