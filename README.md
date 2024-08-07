@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @kampanosg
 - 👀 I’m interested in Go, Erlang and Rust
-- 📚 I’m reading the [The Moon Is a Harsh Mistress](https://search.brave.com/search?q=the+moon+is+a+harsh+mistress&source=web) by Robert A. Heinlein
+- 📚 I’m reading the [Archipelago](https://search.brave.com/search?q=Archipelago+hr+hawkins) by H R Hawkins
 - 🏎️ I’m GoKarting on the weekends ([YouTube](https://youtu.be/SMDz30XbHNY))
 - 📫 Reach me at [LinkedIn](https://uk.linkedin.com/in/kampanosg)
 
