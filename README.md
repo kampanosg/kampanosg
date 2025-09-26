@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @kampanosg
 - 👀 I’m interested in Go, Erlang and Rust
-- 📚 I’m reading the [Archipelago](https://search.brave.com/search?q=Archipelago+hr+hawkins) by H R Hawkins
+- 📚 I’m reading the [Starship Troopers](https://search.brave.com/search?q=starship+troopers+heinlein) by Robert A. Heinlein
 - 🏎️ I’m GoKarting on the weekends ([YouTube](https://youtu.be/SMDz30XbHNY))
 - 📫 Reach me at [LinkedIn](https://uk.linkedin.com/in/kampanosg)
 
