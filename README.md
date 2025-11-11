@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @kampanosg
 - 👀 I’m interested in Go, Erlang and Rust
-- 📚 I’m reading the [Pretenders to the Throne of God](https://www.amazon.co.uk/dp/B0FD81T2H4) by Adrian Tchaikovsky
+- 📚 I’m reading [Semper Mars (Book 1 from the Heritage Trilogy)](https://www.amazon.co.uk/dp/B008EEZ180) by Ian Douglas
 - 🏎️ I’m GoKarting on the weekends ([YouTube](https://youtu.be/SMDz30XbHNY))
 - 📫 Reach me at [LinkedIn](https://uk.linkedin.com/in/kampanosg)
 
